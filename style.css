@@ -1,6 +1,8 @@
 h1 {
     font-family: 'Times New Roman', Times, serif;
     color: blue;
+    text-align: center;
+    background: lightblue;
     
 }   
 
@@ -14,10 +16,13 @@ h2 {font-family: Georgia, 'Times New Roman', Times, serif;
 color: blue;
 position: relative;
 text-decoration: underline;
+background: lightblue;
+text-align: center;
 }
 
 p {
     font-size: 20px;
+    text-align: center;
 }
 
 ul {
@@ -31,8 +36,10 @@ h3 {
 
 td {
     color: darkred;
+    font-size: 20px;
 }
 
 a:hover {
     text-decoration-color: green;
 }
+
