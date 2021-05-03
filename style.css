@@ -43,3 +43,8 @@ a:hover {
     text-decoration-color: green;
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
